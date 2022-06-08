@@ -1,0 +1,26 @@
+#ifndef FECHA_H_INCLUDED
+#define FECHA_H_INCLUDED
+#include <string>
+
+
+class Fecha{
+    public:
+        int  getDia();
+        int  getMes();
+        int  getAnio();
+        void setDia(int dia);
+        void setMes(int mes);
+        void setAnio(int anio);
+             Fecha(int dia, int mes, int anio);
+             Fecha();
+        std::string toString();
+        void Cargar();
+        void Mostrar();
+        void CargarHorario();
+        void Mostrarhorario();
+    private:
+        int _dia, _mes, _anio;
+        int hora, minutos;
+
+};
+#endif // FECHA_H_INCLUDED

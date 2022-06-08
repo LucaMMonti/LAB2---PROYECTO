@@ -1,0 +1,132 @@
+# depslib dependency file v1.0
+1654034869 source:c:\users\lenovo\downloads\proyecto labo2022\fecha.cpp
+	"fecha.h"
+	<ctime>
+	<iostream>
+
+1654481910 c:\users\lenovo\downloads\proyecto labo2022\fecha.h
+	<string>
+
+1653605205 source:c:\users\lenovo\downloads\proyecto labo2022\funciones (1).cpp
+
+1654030660 source:c:\users\lenovo\downloads\proyecto labo2022\diastrabajados.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+
+1654564187 source:c:\users\lenovo\downloads\proyecto labo2022\empleado.cpp
+	"Empleado.h"
+	<iostream>
+	<cstdlib>
+	<cstring>
+
+1654572236 c:\users\lenovo\downloads\proyecto labo2022\empleado.h
+	"fecha.h"
+	<cstring>
+
+1654571528 source:c:\users\lenovo\downloads\proyecto labo2022\presentismo.cpp
+	"Presentismo.h"
+	"fecha.h"
+	<iostream>
+	<cstdlib>
+	<cstring>
+
+1654030660 source:c:\users\lenovo\downloads\proyecto labo2022\vacaciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+
+1654571528 source:c:\users\lenovo\downloads\proyecto labo2022\main.cpp
+	<iostream>
+	"fecha.h"
+	"clases.h"
+	"Empleado.h"
+	"Menus.h"
+	"Presentismo.h"
+
+1654572085 c:\users\lenovo\downloads\proyecto labo2022\clases.h
+	<iomanip>
+	"fecha.h"
+	"clases.h"
+	"Empleado.h"
+	"Presentismo.h"
+
+1654568612 c:\users\lenovo\downloads\proyecto labo2022\menus.h
+	<iostream>
+
+1654481910 c:\users\lenovo\downloads\proyecto labo2022\presentismo.h
+	"fecha.h"
+
+1654565982 source:c:\users\lenovo\downloads\proyecto labo2022\menus.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+
+1654565796 source:c:\users\lenovo\downloads\proyecto labo2022\consultas.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+
+1654016260 source:c:\users\user\desktop\utn\4-tsp cuarto cuatrimestre\lab 2\proyecto labo2022-20220608t010213z-001\proyecto labo2022\diastrabajados.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+
+1654557946 source:c:\users\user\desktop\utn\4-tsp cuarto cuatrimestre\lab 2\proyecto labo2022-20220608t010213z-001\proyecto labo2022\empleado.cpp
+	"Empleado.h"
+	<iostream>
+	<cstdlib>
+	<cstring>
+
+1654557836 c:\users\user\desktop\utn\4-tsp cuarto cuatrimestre\lab 2\proyecto labo2022-20220608t010213z-001\proyecto labo2022\empleado.h
+	"fecha.h"
+	<cstring>
+
+1654467510 c:\users\user\desktop\utn\4-tsp cuarto cuatrimestre\lab 2\proyecto labo2022-20220608t010213z-001\proyecto labo2022\fecha.h
+	<string>
+
+1654020468 source:c:\users\user\desktop\utn\4-tsp cuarto cuatrimestre\lab 2\proyecto labo2022-20220608t010213z-001\proyecto labo2022\fecha.cpp
+	"fecha.h"
+	<ctime>
+	<iostream>
+
+1653590804 source:c:\users\user\desktop\utn\4-tsp cuarto cuatrimestre\lab 2\proyecto labo2022-20220608t010213z-001\proyecto labo2022\funciones (1).cpp
+
+1654557128 source:c:\users\user\desktop\utn\4-tsp cuarto cuatrimestre\lab 2\proyecto labo2022-20220608t010213z-001\proyecto labo2022\main.cpp
+	<iostream>
+	"fecha.h"
+	"clases.h"
+	"Empleado.h"
+	"Menus.h"
+	"Presentismo.h"
+
+1654557684 c:\users\user\desktop\utn\4-tsp cuarto cuatrimestre\lab 2\proyecto labo2022-20220608t010213z-001\proyecto labo2022\clases.h
+	<iomanip>
+	"fecha.h"
+	"clases.h"
+	"Empleado.h"
+	"Presentismo.h"
+
+1654467510 c:\users\user\desktop\utn\4-tsp cuarto cuatrimestre\lab 2\proyecto labo2022-20220608t010213z-001\proyecto labo2022\presentismo.h
+	"fecha.h"
+
+1654554212 c:\users\user\desktop\utn\4-tsp cuarto cuatrimestre\lab 2\proyecto labo2022-20220608t010213z-001\proyecto labo2022\menus.h
+	<iostream>
+
+1654551582 source:c:\users\user\desktop\utn\4-tsp cuarto cuatrimestre\lab 2\proyecto labo2022-20220608t010213z-001\proyecto labo2022\menus.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+
+1654557128 source:c:\users\user\desktop\utn\4-tsp cuarto cuatrimestre\lab 2\proyecto labo2022-20220608t010213z-001\proyecto labo2022\presentismo.cpp
+	"Presentismo.h"
+	"fecha.h"
+	<iostream>
+	<cstdlib>
+	<cstring>
+
+1654016260 source:c:\users\user\desktop\utn\4-tsp cuarto cuatrimestre\lab 2\proyecto labo2022-20220608t010213z-001\proyecto labo2022\vacaciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+
