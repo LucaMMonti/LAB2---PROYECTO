@@ -1,5 +1,5 @@
 
-# Poyecto LAB2 - Sistema de control de ingreso/egreso
+# Proyecto LAB2 - Sistema de control de ingreso/egreso
 </br>
 Nicolas Maciel 24290 - Froiman Hernan 25099 - Luca Monti 25548 - Agustín Santillan 23828
 </br>
