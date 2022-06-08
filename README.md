@@ -1,4 +1,3 @@
-<a>href=""</a>
 
 # Poyecto LAB2 - Sistema de control de ingreso/egreso
 </br>
