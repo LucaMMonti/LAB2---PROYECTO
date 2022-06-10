@@ -24,7 +24,7 @@ int MenuConsultas(){
         cout<<"============== CONSULTAS =============="<<endl;
         cout<<"1. DATOS DEL PERSONAL "<<endl;
         cout<<"2. ASISTENCIA DEL MES "<<endl;
-        cout<<"2. VACACIONES  "<<endl;
+        cout<<"3. VACACIONES  "<<endl;
         cout<<"=================================="<<endl;
         cout<<"0. VOLVER"<<endl;
         cout<<"OPCION: ";
